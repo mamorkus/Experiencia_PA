@@ -21,5 +21,3 @@ def memoria():
     Luego, debes pedir al usuario que repita la secuencia.
     Se debe mostrar un mensaje si el usuario acierta o no.
     """
-    pass
-memoria()
