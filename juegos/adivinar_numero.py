@@ -12,4 +12,3 @@ def adivinar_numero():
     else:
         print("Perdiste :c")
         print("El número correcto era",a)
-adivinar_numero()
