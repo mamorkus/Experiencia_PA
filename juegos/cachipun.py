@@ -14,4 +14,3 @@ def cachipun():
         print("Has Ganado!! El computador eligió",eleccion[com])
     else:
         print("Perdiste :c El computador eligió",eleccion[com])
-cachipun()
