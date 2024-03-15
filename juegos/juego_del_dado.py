@@ -24,5 +24,3 @@ def juego_del_dado():
     Después el computador también tiene que lanzar un dado.
     El primero en sumar 30 puntos gana.
     """
-    pass
-juego_del_dado()
